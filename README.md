@@ -7,4 +7,5 @@
 6.决策树模型demo  
 7.泰坦尼克号获救预测  
 8.贝叶斯拼写检查器  
-9.tensorflow基础
+9.tensorflow基础  
+10.tensorflow分类任务
