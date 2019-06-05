@@ -8,4 +8,5 @@
 7.泰坦尼克号获救预测  
 8.贝叶斯拼写检查器  
 9.tensorflow基础  
-10.tensorflow分类任务
+10.tensorflow分类任务  
+11.dropout解决overfitting
