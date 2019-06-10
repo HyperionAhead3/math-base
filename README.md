@@ -10,3 +10,4 @@
 9.tensorflow基础  
 10.tensorflow分类任务  
 11.dropout解决overfitting
+12.Mnist_by_CNN
