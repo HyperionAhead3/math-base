@@ -9,5 +9,6 @@
 8.贝叶斯拼写检查器  
 9.tensorflow基础  
 10.tensorflow分类任务  
-11.dropout解决overfitting
-12.Mnist_by_CNN
+11.dropout解决overfitting  
+12.Mnist_by_CNN  
+13.tensorflow_save and restore  
