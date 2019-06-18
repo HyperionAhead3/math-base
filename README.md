@@ -12,3 +12,5 @@
 11.dropout解决overfitting  
 12.Mnist_by_CNN  
 13.tensorflow_save and restore  
+14.RNN_LSTM解决Mnist分类任务  
+
