@@ -13,4 +13,4 @@
 12.Mnist_by_CNN  
 13.tensorflow_save and restore  
 14.RNN_LSTM解决Mnist分类任务  
-
+15.逻辑回归（梯度下降）
